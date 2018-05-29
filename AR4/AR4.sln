@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR4", "AR4.csproj", "{559464C8-19BC-3EA4-1354-A046CF0DCE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR4.Editor", "AR4.Editor.csproj", "{13729463-5FCB-ED31-2E7C-D0600E87EEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559464C8-19BC-3EA4-1354-A046CF0DCE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559464C8-19BC-3EA4-1354-A046CF0DCE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559464C8-19BC-3EA4-1354-A046CF0DCE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559464C8-19BC-3EA4-1354-A046CF0DCE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13729463-5FCB-ED31-2E7C-D0600E87EEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13729463-5FCB-ED31-2E7C-D0600E87EEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13729463-5FCB-ED31-2E7C-D0600E87EEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13729463-5FCB-ED31-2E7C-D0600E87EEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
